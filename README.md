@@ -5,6 +5,6 @@ I have 6 months to learn most of things about coding
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on websites for social platforms
+- 👯 I’m looking to collaborate with software company
 - ⚡ Fun fact: You can ride motocycle with me at summer nights
 -->
