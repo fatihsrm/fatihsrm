@@ -1,5 +1,5 @@
 ### Hi there i am  software developer student👋
-I have 6 months to learn most of things about coding
+I am very willing to develop software. Coding is new world for me. I have 6 months to learn a lot of things about development process
 
 **fatihsrm/fatihsrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
